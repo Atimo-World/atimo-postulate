@@ -1,10 +1,12 @@
 # Informationelle Gravimetrie: Das Atimo-Postulat ($G = i^2$)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20066727.svg)](https://doi.org/10.5281/zenodo.20066727)
+
 **Autor:** Roberto Weinhold  
 **Datum:** Mai 2026  
 **Ort:** Dresden, Deutschland  
 **Status:** Postulat / Independent Research  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20066727.svg)](https://doi.org/10.5281/zenodo.20066727)
+**DOI:** 10.5281/zenodo.20066727
 
 ---
 
@@ -30,21 +32,30 @@ Das Postulat besagt, dass Information in Ruhe ein Potenzial darstellt, aber erst
 
 ## 4. Theoretische Validierung
 Das Postulat sucht die Konvergenz mit bestehenden Theorien:
-* **Holographisches Prinzip:** Die quadratische Skalierung korrespondiert mit der Bekenstein-Hawking-Entropie, bei der Information auf 2D-Flächen ($L^2$) das 3D-Gravitationsfeld bestimmt.
-* **Landauer-Prinzip:** Da das Löschen von Information Energie freisetzt, muss Information eine intrinsische energetische Signatur besitzen, die nach $E=mc^2$ gravitative Auswirkungen hat.
-* **Entropische Gravitation:** Analog zu Erik Verlindes Ansätzen wird Gravitation hier als statistischer Effekt der Informationsmaximierung begriffen.
+* **Holographisches Prinzip:** Die quadratische Skalierung korrespondiert mit der Bekenstein-Hawking-Entropie ($L^2$).
+* **Landauer-Prinzip:** Energetische Signatur von Information führt nach $E=mc^2$ zu Raumkrümmung.
+* **Entropische Gravitation:** Gravitation als statistischer Effekt der Informationsmaximierung (analog zu Erik Verlinde).
 
 ---
 
-## 5. Empirische Beobachtungen & Soziale Resonanz
-Ein zentraler Aspekt der Atimo-Physik ist die universelle Anwendbarkeit. Das Postulat wurde durch Langzeitbeobachtungen in Systemen hoher Personendichte (Öffentlicher Personennahverkehr) und hochenergetischer Informations-Frequenz-Felder (Techno-Kultur) entwickelt.
+## 5. Empirische Beobachtungen
+Ein zentraler Aspekt der Atimo-Physik ist die universelle Anwendbarkeit. Das Postulat wurde durch Langzeitbeobachtungen in Systemen hoher Personendichte (ÖPNV) und hochenergetischer Informations-Frequenz-Felder (Techno-Kultur) entwickelt.
 
 ### 5.1 Die Wellen-Identität
-Im Gegensatz zu binären Klassifizierungen schlägt das Postulat vor, Identität als Interferenzmuster von Informationswellen zu betrachten. Soziale Konstrukte besitzen eine reale „Gravitation“ ($G$), die direkt proportional zum Quadrat der in sie investierten Information ($i$) ist. Dies ermöglicht eine ideologiefreie Wiedervereinigung von Biologie und Soziologie unter dem Dach der Informationsphysik.
+Identität wird als Interferenzmuster von Informationswellen betrachtet. Soziale Konstrukte besitzen eine reale „Gravitation“ ($G$), die proportional zum Quadrat der investierten Information ($i$) ist. Dies ermöglicht eine ideologiefreie Wiedervereinigung von Biologie und Soziologie.
 
 ---
 
-## 6. Fazit & Ausblick
+## 6. Erweiterung der Feldtheorie: Der Atimo-Lewin-Effekt
+In Erweiterung der psychologischen Feldtheorie von Kurt Lewin ($B = f(P, E)$) postuliert dieses Modell, dass soziales Verhalten ($B$) eine direkte Funktion der informationellen Gravitation ist.
+
+$$B \approx f(i^2_{P,E})$$
+
+Wo die Informationsdichte ($i$) innerhalb eines sozialen Raums (E) oder einer psychologischen Struktur (P) steigt, nimmt die Gravitation ($G$) quadratisch zu. Das Individuum folgt in seinem Verhalten der Krümmung des Informationsfeldes. Dies erklärt die physisch erlebbare "Schwere" in hochverdichteten sozialen Situationen.
+
+---
+
+## 7. Fazit & Ausblick
 Das Atimo-Postulat bietet ein Werkzeug zur Aufklärung durch Objektivierung. Wenn Gravitation eine Funktion der Information ist, kann durch die Steigerung der Informationsqualität (Wissen, Resonanz, Bewusstsein) die Struktur der Realität aktiv gestaltet werden.
 
 ---
